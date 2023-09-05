@@ -59,20 +59,11 @@ python svm_classification.py
 
 ## Evaluation
 
-Evaluate the performance of your SVM classifier using metrics like accuracy, precision, recall, and F1-score on a test dataset. Fine-tune hyperparameters if needed to improve classification accuracy.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Dataset source: (Include the source link if applicable)
-- Inspiration: (Credit any tutorials, articles, or resources that inspired your project)
+Evaluate the performance of your SVM classifier using metrics like accuracy, precision, recall, and F1-score on a test dataset. Fine-tune hyperparameters if needed to improve classification .
 
 ## Contact
 
-For any questions or feedback, feel free to contact [Your Name] at [Your Email].
+For any questions or feedback, feel free to contact Aryan Sawant at umeshsawant112233@gmail.com .
 
 ---
 
